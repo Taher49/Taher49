@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher49&label=Profile%20views&color=0e75b6&style=flat" alt="taher49" /> </p>
 
-- 🔭 I’m currently working on **Real State**
+- 🔭 I’m currently working on ** Project Real State - Freelance**
 
 - 🌱 I’m currently learning **Express Js**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **taharalbouhtouri@gmail.com**
 
-- 📄 Know about my experiences [check my Linkedin https://www.linkedin.com/in/tahar-al-bouhtouri-151b84221/](check my Linkedin https://www.linkedin.com/in/tahar-al-bouhtouri-151b84221/)
+- 📄 Know about my experiences (check my Linkedin https://www.linkedin.com/in/tahar-al-bouhtouri-151b84221/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
