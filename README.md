@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher49&label=Profile%20views&color=0e75b6&style=flat" alt="taher49" /> </p>
 
-- 🔭 I’m currently working on ** Project Real State - Freelance**
+- 🔭 I’m currently working on ** App My-Anmie Using ReactJs **
 
 - 🌱 I’m currently learning **Express Js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Taher49](https://github.com/Taher49)
 
 - 📫 How to reach me **taharalbouhtouri@gmail.com**
 
