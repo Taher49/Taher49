@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taher</h1>
-<h3 align="center">Web | Mobile Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher49&label=Profile%20views&color=0e75b6&style=flat" alt="taher49" /> </p>
 
-- 🔭 I’m currently working on ** App My-Anmie Using ReactJs **
+- 🔭 I’m currently working on ** My Portfolio **
 
 - 🌱 I’m currently learning **Express Js**
 
