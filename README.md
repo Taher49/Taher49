@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taher49&label=Profile%20views&color=0e75b6&style=flat" alt="taher49" /> </p>
 
-- 🔭 I’m currently working on ** My Portfolio **
-
-- 🌱 I’m currently learning **Express Js**
+- 🌱 I’m currently learning **Three Js**
 
 - 📫 How to reach me **taharalbouhtouri@gmail.com**
 
